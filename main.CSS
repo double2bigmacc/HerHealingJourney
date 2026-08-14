@@ -11,32 +11,47 @@
     grid-gap: 0.5rem;
 }
 
-.navbar {
+.navbar ul{
     grid-area: navbar;
+    background-color: #8ba352;
 }
+
+.navbar li {
+    display: inline;
+    padding: 20;
+     
+}
+
+    
+
 
 .heading_1 {
     grid-area: heading_1;
+     background-color: #F5FCEE;
 }
 
 .box_1 {
     grid-area: box_1;
+     background-color: #F5FCEE;
 }
 
 .box_2 {
     
     grid-area: box_2;
+     background-color: #F5FCEE;
 }
 
 .box_3 {
     grid-area: box_3;
+     background-color: #F5FCEE;
 }
 
 .box_4 {
     grid-area: box_4;
+    background-color: #F5FCEE;
 }
 
 .footer {
     grid-area: footer;
-    background-color: bisque;
+    background-color: #8ba352;
 }
