@@ -11,9 +11,16 @@
     grid-gap: 0.5rem;
 }
 
-.navbar ul{
+.navbar {
     grid-area: navbar;
     background-color: #8ba352;
+    text-align: center;
+    padding: 20px;
+}
+
+.navbar ul {
+    list-style-type: none;
+
 }
 
 .navbar li {
@@ -22,12 +29,19 @@
      
 }
 
-    
+.navbar a {
+    padding: 20px;
+    background-color: #F5FCEE;
+}
 
+/*.nabar a {
+
+}*/
 
 .heading_1 {
     grid-area: heading_1;
      background-color: #F5FCEE;
+     text-align: center;
 }
 
 .box_1 {
@@ -54,4 +68,11 @@
 .footer {
     grid-area: footer;
     background-color: #8ba352;
+    padding: 50px;
+    text-align: center;
+}
+
+footer p {
+    display: block;
+    margin: 10px 0;
 }
