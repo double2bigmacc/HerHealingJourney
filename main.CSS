@@ -12,31 +12,21 @@
 }
 
 .navbar {
-    grid-area: navbar;
-    background-color: #8ba352;
-    text-align: center;
-    padding: 20px;
+     grid-area: navbar; 
+     text-size-adjust: 60px;
+     text-align: center;
+     background-color: #8ba352;
 }
 
 .navbar ul {
     list-style-type: none;
-
 }
 
 .navbar li {
-    display: inline;
-    padding: 20;
-     
+     display: inline;
+     padding: 15px;
+     background-color: #a3b18a;
 }
-
-.navbar a {
-    padding: 20px;
-    background-color: #F5FCEE;
-}
-
-/*.nabar a {
-
-}*/
 
 .heading_1 {
     grid-area: heading_1;
@@ -66,13 +56,14 @@
 }
 
 .footer {
-    grid-area: footer;
-    background-color: #8ba352;
-    padding: 50px;
-    text-align: center;
+     grid-area: footer;
+      grid-area: footer;
+     text-align: center;
+       background-color: #8ba352;
+
 }
 
-footer p {
-    display: block;
-    margin: 10px 0;
+p {
+     padding: 15px;
+     font-size: 30px;
 }
