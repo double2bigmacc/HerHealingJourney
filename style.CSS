@@ -27,6 +27,11 @@
      padding: 15px;
 }
 
+.logo {
+    width: 100px;
+    
+}
+
 .heading_1 {
     grid-area: heading_1;
      background-color: #F5FCEE;
@@ -60,11 +65,12 @@ iframe {
      grid-area: footer;
      text-align: center;
      background-color: #8ba352;
-     display: flex;
+   
      flex-direction: row;
      justify-content: center;
      gap: 30px;
-    
+
+
 }
 p {
      padding: 15px;

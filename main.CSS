@@ -27,7 +27,11 @@
      padding: 15px;
 }
 
-
+.logo {
+    width: 180px;
+    height: auto;
+    padding: 15px;
+}
 
 .heading_1 {
     grid-area: heading_1;
@@ -63,6 +67,10 @@
      grid-area: footer;
      text-align: center;
      background-color: #8ba352;
+     flex-direction: row;
+     justify-content: center;
+     gap: 100px;
+    
 }
 
 p {
