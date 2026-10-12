@@ -15,7 +15,7 @@
      grid-area: navbar; 
      text-size-adjust: 60px;
      text-align: center;
-     background-color: #8ba352;
+     background-color: #89c2d9;
 }
 
 .navbar ul {
@@ -34,13 +34,13 @@
 
 .heading_1 {
     grid-area: heading_1;
-     background-color: #F5FCEE;
+     background-color: #468faf;
      text-align: center;
 }
 
 .box_1 {
     grid-area: box_1;
-     background-color: #F5FCEE;
+     background-color: #468faf;
      text-align: center;
      
 }
@@ -52,7 +52,7 @@ iframe {
 .box_2 {
     
     grid-area: box_2;
-     background-color: #F5FCEE;
+     background-color: #89c2d9;
      text-align: center;
 }
 
@@ -64,7 +64,7 @@ iframe {
      grid-area: footer;
      grid-area: footer;
      text-align: center;
-     background-color: #8ba352;
+     background-color: #89c2d9;
    
      flex-direction: row;
      justify-content: center;
