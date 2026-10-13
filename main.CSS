@@ -13,8 +13,8 @@
 
 .navbar {
      grid-area: navbar; 
-     text-size-adjust: 60px;
-     text-align: center;
+     text-size-adjust: 100px;
+     text-align: right;
      background-color: #89c2d9;
 }
 
@@ -51,7 +51,7 @@
 
 
 .box_1, .box_2, .box_3, .box_4{
-     background-color: #468faf;
+     background-color: #89c2d9;
      text-align: center;
      font-size:100%;
 }
@@ -85,11 +85,4 @@ img{
 }
 
 img {
-    border-radius: 15px;
-}
-
-
-a {
-    text-decoration: none;
-    color: black;
-}
+    border-radius: 15px;}

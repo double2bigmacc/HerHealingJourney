@@ -14,7 +14,7 @@
 .navbar {
      grid-area: navbar; 
      text-size-adjust: 60px;
-     text-align: center;
+     text-align: right;
      background-color: #89c2d9;
 }
 
@@ -40,7 +40,7 @@
 
 .box_1 {
     grid-area: box_1;
-     background-color: #468faf;
+     background-color: #89c2d9;
      text-align: center;
      
 }
