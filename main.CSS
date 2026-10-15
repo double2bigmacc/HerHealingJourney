@@ -86,3 +86,13 @@ img{
 
 img {
     border-radius: 15px;}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+}    
